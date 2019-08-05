@@ -1,0 +1,13 @@
+
+ˆ"squid:ClassVariableVisibilityCheck"UMake WEDNESDAY a static final constant or non-public and provide accessors if needed.(ª³ øÿÿÿÿ
+…"squid:ClassVariableVisibilityCheck"RMake FRIDAY a static final constant or non-public and provide accessors if needed.(Ç¦á¶ûÿÿÿÿ
+isquid:S00116"RRename this field "TUESDAY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»şV
+‚"squid:ClassVariableVisibilityCheck"TMake THURSDAY a static final constant or non-public and provide accessors if needed.(¥¨…
+ksquid:S00116"SRename this field "THURSDAY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥¨…
+jsquid:S00116	"RRename this field "WEEKEND" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„›ˆ¶
+€"squid:ClassVariableVisibilityCheck"SMake TUESDAY a static final constant or non-public and provide accessors if needed.(»şV
+qsquid:S00116"TRename this field "WEDNESDAY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª³ øÿÿÿÿ
+nsquid:S00116"QRename this field "MONDAY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¾û˜ıÿÿÿÿ
+"squid:ClassVariableVisibilityCheck	"SMake WEEKEND a static final constant or non-public and provide accessors if needed.(„›ˆ¶
+…"squid:ClassVariableVisibilityCheck"RMake MONDAY a static final constant or non-public and provide accessors if needed.(Û¾û˜ıÿÿÿÿ
+nsquid:S00116"QRename this field "FRIDAY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¦á¶ûÿÿÿÿ

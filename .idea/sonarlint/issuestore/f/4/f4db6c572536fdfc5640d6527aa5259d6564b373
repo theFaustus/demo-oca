@@ -1,0 +1,24 @@
+
+Ysquid:S1854 "6Remove this useless assignment to local variable "i1".(»ÈÅÛøÿÿÿÿ8€Ô‚›Å-
+Dsquid:S1481"'Remove this unused "a2" local variable.(õ€ú78ÿıšÅ-
+Isquid:S1481"&Remove this unused "i" local variable.(ø’Üóşÿÿÿÿ8ÓşÕšÅ-
+Ssquid:S1854"5Remove this useless assignment to local variable "d".(¹¼à8àåØšÅ-
+Xsquid:S1854"5Remove this useless assignment to local variable "i".(ø’Üóşÿÿÿÿ8ÓşÕšÅ-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ûÖ®›Å-
+isquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(ƒ¿ÍÕ8Ò”›Å-
+isquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(Ë–¨å8€ó‹›Å-
+Jsquid:S1481&"'Remove this unused "a4" local variable.(áì®Ãøÿÿÿÿ8ó‡›Å-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Àû¶ñûÿÿÿÿ8ûÖ®›Å-
+Tsquid:S1854"6Remove this useless assignment to local variable "a3".(«“Ö¶8‘€şšÅ-
+Dsquid:S1481"&Remove this unused "d" local variable.(¹¼à8àåØšÅ-
+Ssquid:S1854"6Remove this useless assignment to local variable "a2".(õ€ú78ÿıšÅ-
+Jsquid:S1481 "'Remove this unused "i1" local variable.(»ÈÅÛøÿÿÿÿ8€Ô‚›Å-
+Hsquid:S1481	"*Remove this unused "array" local variable.(€Â­8ûÖ®›Å-
+Jsquid:S1481'"'Remove this unused "i2" local variable.(ÖÈ™çşÿÿÿÿ8€ó‹›Å-
+^squid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(«“Ö¶8âÚÂÅ-
+Ysquid:S1854'"6Remove this useless assignment to local variable "i2".(ÖÈ™çşÿÿÿÿ8€ó‹›Å-
+Wsquid:S1854	"9Remove this useless assignment to local variable "array".(€Â­8ûÖ®›Å-
+>squid:S2129"!Remove this "Integer" constructor(õ€ú78ÿıšÅ-
+]squid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(õ€ú78âÚÂÅ-
+Esquid:S1481"'Remove this unused "a3" local variable.(«“Ö¶8‘€şšÅ-
+Ysquid:S1854&"6Remove this useless assignment to local variable "a4".(áì®Ãøÿÿÿÿ8ó‡›Å-

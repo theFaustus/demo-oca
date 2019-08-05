@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/consoles/db/abf18270-2600-4373-ab19-0ba823debf29/console.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/consoles/db/abf18270-2600-4373-ab19-0ba823debf29/console_23.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Demo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/EmailSender.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/Demo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/EmailSender.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/a/Base.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/a/BaseChildSamePackage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/a/BaseTip.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/a/ExamAnswer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/a/ExamQuestion.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/a/ExamQuestionTip.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/a/OtherClassSamePackage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/a/SubclassSamePackage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/abstractexample/AudiCar.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/abstractexample/BmwCar.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/abstractexample/Car.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/abstractexample/Race.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/b/AnnualExam.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/b/BaseNote.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/b/ExamQuestionNote.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/b/OtherClassDifferntPackage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/b/OtherClassOtherPackage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/b/SubclassOtherPackage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/certification/ExamAnswer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/certification/ExamQuestion.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/certification/ExamQuestionTip.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/finalexample/Animal.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/finalexample/AnimalKingdom.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/finalexample/Ca.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/finalexample/Cat.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/finalexample/Dinosaur.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/finalexample/Pterodactyl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/fivedigitsexercise/FiveDigitsSplitter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/homework/DegreesToDecimalConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/staticexample/Employee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/staticexample/Office.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/staticvsinstance/DaysOfWeekBad.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/staticvsinstance/DaysOfWeekGood.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/staticvsinstance/Person.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/staticvsinstance/TeachingRoom.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/tabularoutputexercise/TabularSquareCube.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/university/AnnualExam.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/university/ExamQuestionNote.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/variablesvsobjectreferences/Demo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/variablesvsobjectreferences/Dog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/md/tekwill/demo/wrapper/WrapperDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../learning/sandbox/src/main/java/com/evil/learning/sandbox/SandboxApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../learning/sandbox/src/main/java/com/evil/learning/sandbox/Worker.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-handler/src/main/java/be/ipc/unex/common/handler/contractor/ContractorHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-handler/src/main/java/be/ipc/unex/common/handler/contractor/IContractorHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-handler/src/main/java/be/ipc/unex/common/handler/psv/PsvReadDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-handler/src/main/java/be/ipc/unex/common/handler/psv/PsvServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-handler/src/main/java/be/ipc/unex/common/handler/senderpoint/dto/SenderPointDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-handler/src/main/java/be/ipc/unex/common/handler/senderpoint/mapper/SenderPointDtoMapperSenderPointVisitor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-handler/src/main/java/be/ipc/unex/common/handler/senderpoint/service/PopulateSaveSenderPointCommandHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-handler/src/main/java/be/ipc/unex/common/handler/senderpoint/service/PopulateSaveSenderPointCommandService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-handler/src/main/java/be/ipc/unex/common/handler/senderpoint/service/PopulateSaveSenderPointCommandServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-handler/src/main/java/be/ipc/unex/common/handler/senderpoint/service/SenderPointService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-handler/src/main/java/be/ipc/unex/common/handler/senderpoint/service/StandardInductableSenderPointService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-handler/src/main/java/be/ipc/unex/common/handler/senderpoint/service/StandardLinkSenderPointService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-handler/src/main/java/be/ipc/unex/common/handler/senderpoint/service/StandardSenderPointService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-handler/src/main/java/be/ipc/unex/common/handler/synergyset/ISynergySetHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-handler/src/main/java/be/ipc/unex/common/handler/synergyset/SynergySetDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-handler/src/main/java/be/ipc/unex/common/handler/synergyset/SynergySetHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-handler/src/main/java/be/ipc/unex/common/handler/validator/PercentageValidatorForString.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-handler/src/test/java/be/ipc/unex/common/handler/contractor/ContractorHandlerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-handler/src/test/java/be/ipc/unex/common/handler/senderpoint/dto/SenderPointDtoTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-handler/src/test/java/be/ipc/unex/common/handler/senderpoint/service/StandardInductableSenderPointServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-handler/src/test/java/be/ipc/unex/common/handler/senderpoint/service/StandardLinkSenderPointServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-handler/src/test/java/be/ipc/unex/common/handler/senderpoint/service/StandardSenderPointServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-handler/src/test/java/be/ipc/unex/common/handler/synergyset/SynergySetHandlerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-web/src/main/resources/itemQueryAnswers_de.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-web/src/main/resources/itemQueryAnswers_es.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-web/src/main/resources/itemQueryAnswers_fr.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-web/src/main/resources/itemQueryAnswers_it.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-web/src/main/resources/itemQueryQuestions_de.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-web/src/main/resources/itemQueryQuestions_es.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-web/src/main/resources/itemQueryQuestions_fr.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common-web/src/main/resources/itemQueryQuestions_it.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common/src/main/java/be/ipc/unex/common/enums/ContractorNameEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-common/src/main/java/be/ipc/unex/common/enums/DateFormat.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-contractor-zone/src/main/java/be/ipc/unex/contractor/handler/panelist/IPanelistHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-contractor-zone/src/main/java/be/ipc/unex/contractor/handler/panelist/PanelistHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-contractor-zone/src/main/java/be/ipc/unex/contractor/handler/panelist/dto/PanelistDetailDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-contractor-zone/src/main/java/be/ipc/unex/contractor/handler/senderpoint/StandardSaveSenderPointService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-contractor-zone/src/main/java/be/ipc/unex/contractor/web/panelist/changerole/ChangeRoleHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-contractor-zone/src/main/java/be/ipc/unex/contractor/web/panelist/senderpoints/ContractorSaveSenderPointCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-contractor-zone/src/main/java/be/ipc/unex/contractor/web/panelist/senderpoints/SenderPointController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-contractor-zone/src/main/java/be/ipc/unex/contractor/web/panelist/senderpoints/SenderPointsController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-contractor-zone/src/main/resources/messageSource.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-contractor-zone/src/main/webapp/WEB-INF/jsp/panelist/senderpoints/detail-DAILY_MAIL_COLLECTION.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-contractor-zone/src/main/webapp/WEB-INF/jsp/panelist/senderpoints/detail-LAST_COLLECTION_TIME.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-contractor-zone/src/main/webapp/WEB-INF/jsp/panelist/senderpoints/senderpoints-overview.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-contractor-zone/src/main/webapp/WEB-INF/jsp/panelist/senderpoints/validateSenderpoint.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-contractor-zone/src/main/webapp/WEB-INF/tags/formatActivityActionLinks.tag">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-contractor-zone/src/main/webapp/static/js/mmu-contractor-zone/jquery-plugins/application/modules/detail-DAILY_MAIL_COLLECTION.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-contractor-zone/src/main/webapp/static/js/mmu-contractor-zone/jquery-plugins/application/modules/detail-LAST_COLLECTION_TIME.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-contractor-zone/src/test/java/be/ipc/unex/contractor/handler/panelist/PanelistHandlerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-contractor-zone/src/test/java/be/ipc/unex/contractor/handler/panelist/dto/ActivityDtoMappingVisitorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-contractor-zone/src/test/java/be/ipc/unex/contractor/handler/senderpoint/StandardSaveSenderPointServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-contractor-zone/src/test/java/be/ipc/unex/contractor/web/panelist/changerole/ChangeRoleHandlerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-contractor-zone/src/test/java/be/ipc/unex/contractor/web/panelist/senderpoints/SenderPointControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-contractor-zone/src/test/java/be/ipc/unexintegration/contractor/handler/panelist/dto/PanelistDetailDtoTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-db/src/main/resources/migrate-mybatis/scripts/20190724142829_add_allowed_advanced_senderpoint_view_on_synergy_set_table.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-db/src/main/resources/migrate-mybatis/scripts/20190725071355_update_allowed_advanced_senderpoint_view_on_synergy_set_table.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-member-zone/src/main/java/be/ipc/unex/member/psv/PsvController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-member-zone/src/main/java/be/ipc/unex/member/psv/PsvMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-member-zone/src/main/resources/messageSource.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-member-zone/src/main/webapp/WEB-INF/jsp/panelist/performance/notfound.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-member-zone/src/main/webapp/WEB-INF/jsp/panelist/performance/performanceOverview.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-member-zone/src/main/webapp/WEB-INF/jsp/panelist/performance/search.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-member-zone/src/main/webapp/spa/src/psv/redux/psv.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-member-zone/src/test/java/be/ipc/unex/member/psv/PsvControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-member-zone/src/test/java/be/ipc/unex/member/psv/PsvMapperTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-member-zone/src/test/java/be/ipc/unex/member/psv/PsvViewControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-model/src/main/java/be/ipc/unex/model/entity/activity/senderpoint/awaitingvalidation/ValidateSenderPointActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-model/src/main/java/be/ipc/unex/model/entity/contractor/ContractorUser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-model/src/main/java/be/ipc/unex/model/entity/contractor/SynergySet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-model/src/main/java/be/ipc/unex/model/entity/memberquery/MemberQueryView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-model/src/main/java/be/ipc/unex/model/entity/panel/Panelist.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-model/src/main/java/be/ipc/unex/model/entity/panel/PanelistProfile.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-model/src/main/java/be/ipc/unex/model/entity/psv/Psv.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-model/src/main/java/be/ipc/unex/model/entity/senderpoint/SenderPoint.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-model/src/main/java/be/ipc/unex/model/enums/ReasonForAppointmentEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-model/src/test/java/be/ipc/unex/model/entity/activity/ActivityFixture.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-model/src/test/java/be/ipc/unex/model/entity/panel/PanelistProfileTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-model/src/test/java/be/ipc/unex/model/entity/psv/PsvFixture.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-model/src/test/java/be/ipc/unex/model/entity/senderpoint/SenderPointTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-model/src/test/java/be/ipc/unex/model/entity/senderpoint/lastcollectiontime/SenderPointLCTFixture.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-model/src/test/java/be/ipc/unex/model/fixture/SenderPointDMCFixture.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-panel-zone/src/main/java/be/ipc/unex/panel/senderpoint/SenderPointController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-panel-zone/src/main/resources/messageSource.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-panel-zone/src/main/resources/messageSource_de.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-panel-zone/src/main/resources/messageSource_es.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-panel-zone/src/main/resources/messageSource_fr.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-panel-zone/src/main/resources/messageSource_it.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-panel-zone/src/main/webapp/WEB-INF/jsp/fragments/senderpoint/senderPointOverviewJmesaTable.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-panel-zone/src/main/webapp/WEB-INF/jsp/fragments/senderpoint/senderPointOverviewJmesaTableUnapproved.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-panel-zone/src/main/webapp/WEB-INF/jsp/senderpoint/senderpointOverview.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../umms-v2018/mmu-panel-zone/src/test/java/be/ipc/unex/panel/senderpoint/SenderPointControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

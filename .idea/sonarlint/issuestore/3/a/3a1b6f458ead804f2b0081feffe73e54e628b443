@@ -1,0 +1,6 @@
+
+—squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¥¹¤>
+˜squid:S1186
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(äñüè
+Msquid:S1444"1Make this "public static bankAccount" field final(ëÖÛŒùÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheck"WMake bankAccount a static final constant or non-public and provide accessors if needed.(ëÖÛŒùÿÿÿÿ
