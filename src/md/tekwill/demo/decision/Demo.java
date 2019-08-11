@@ -1,5 +1,7 @@
 package md.tekwill.demo.decision;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 class Demo {
@@ -146,10 +148,10 @@ class Demo {
             System.out.println(celsius + " " + fahrenheit);
         }
 
-        System.out.println((celsius % (int) celsius == 0 ? ((int) celsius) : celsius) + " " + fahrenheit );
+        System.out.println((celsius % (int) celsius == 0 ? ((int) celsius) : celsius) + " " + fahrenheit);
 
         String day = "MON";
-        switch (day){
+        switch (day) {
             case "MON":
                 System.out.println("Working!");
             case "TUE":
@@ -173,7 +175,7 @@ class Demo {
 
 
         day = "MTE";
-        switch (day){
+        switch (day) {
             case "MON":
                 System.out.println("Working!");
             case "TUE":
@@ -197,7 +199,7 @@ class Demo {
 
 
         day = "TUE";
-        switch (day){
+        switch (day) {
             case "MON":
                 System.out.println("Working on monday!");
             case "TUE":
@@ -219,6 +221,34 @@ class Demo {
                 System.out.println("Not a day!");
                 break;
         }
+
+
+        List<Integer> listOfInteger = new ArrayList<>();
+        listOfInteger.add(1);
+        listOfInteger.add(new Integer(2));
+        listOfInteger.add(3);
+        listOfInteger.add(4);
+
+        for (int i = 0; i < listOfInteger.size(); i++) {
+            switch (listOfInteger.get(i)) {
+                case 1:
+                    System.out.println("Packet A");
+                    break;
+                case 2:
+                    System.out.println("Packet B");
+                    break;
+                case 3:
+                    System.out.println("Packet C");
+                    break;
+                case 4:
+                    System.out.println("Packet D");
+                    break;
+                default:
+                    System.out.println("Not a packet");
+                    break;
+            }
+        }
+
 
     }
 }
