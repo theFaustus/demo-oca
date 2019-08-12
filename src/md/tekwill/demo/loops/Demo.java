@@ -74,12 +74,22 @@ class Demo {
 //        }
 
         int result = 0;
-        for(int i = 2; i <= 9; i++)
+        for (int i = 2; i <= 9; i++)
             result += i;
         System.out.println(result);
+
+        running = true;
+        Scanner in = new Scanner(System.in);
+        int sum = 0;
+        int n = 1;
+        for(;n != 0;){
+            n = in.nextInt();
+            if(n != 0) {
+                sum += n;
+                System.out.println(sum);
+            }
+        }
     }
-
-
 
 
     public static void printFoo() {
