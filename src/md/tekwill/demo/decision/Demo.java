@@ -249,6 +249,49 @@ class Demo {
             }
         }
 
+        Scanner input = new Scanner(System.in);
+        System.out.println("Enter a letter from the phone's key pad :");
+        char letter = input.next().toLowerCase().charAt(0);
+        if (letter == 'a' || letter == 'b' || letter == 'c')
+            System.out.println("The corresponding number is 2");
+        if (letter == 'd' || letter == 'e' || letter == 'f')
+            System.out.println("The corresponding number is 3");
+        if (letter == 'g' || letter == 'h' || letter == 'i')
+            System.out.println("The corresponding number is 4");
+        if (letter == 'j' || letter == 'k' || letter == 'l')
+            System.out.println("The corresponding number is 5");
+        if (letter == 'm' || letter == 'n' || letter == 'o')
+            System.out.println("The corresponding number is 6");
+        if (letter == 'p' || letter == 'q' || letter == 'r' || letter == 's')
+            System.out.println("The corresponding number is 7");
+        if (letter == 't' || letter == 'u' || letter == 'v')
+            System.out.println("The corresponding number is 8");
+        if (letter == 'w' || letter == 'x' || letter == 'y' || letter == 'z')
+            System.out.println("The corresponding number is 9");
 
+
+        for (int i = 0; i < 5; i++) {
+            int number = input.nextInt();
+            printChart(number);
+        }
+
+        int number1 = input.nextInt();
+        int number2 = input.nextInt();
+        int number3 = input.nextInt();
+        int number4 = input.nextInt();
+        int number5 = input.nextInt();
+        printChart(number1);
+        printChart(number2);
+        printChart(number3);
+        printChart(number4);
+        printChart(number5);
     }
+
+    private static void printChart(int numberOfStars) {
+        for (int j = 0; j < numberOfStars; j++) {
+            System.out.print("*");
+        }
+        System.out.println();
+    }
+
 }

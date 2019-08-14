@@ -1,4 +1,4 @@
-package md.tekwill.demo.loops;
+package md.tekwill.demo.loop;
 
 import java.util.Scanner;
 
