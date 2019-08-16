@@ -1,14 +1,0 @@
-
-Isquid:S1481
-"&Remove this unused "a" local variable.(Î¶å°ÿÿÿÿÿ8×ôÅÈÄ-
-[
-squid:S1062"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ8¸±ÅÈÄ-
-nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Œ®˜¾üÿÿÿÿ8É•ÆÈÄ-
-^squid:UselessImportCheck".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8”ëæÇÄ-
-Osquid:S1481",Remove this unused "copyOfB" local variable.(ÃĞ³øøÿÿÿÿ8÷‰¹ÈÄ-
-isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÏËüÔ8İ¤¯ÈÄ-
-nsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(Œ®˜¾üÿÿÿÿ8ôËÅÈÄ-
-^squid:S1854";Remove this useless assignment to local variable "copyOfB".(ÃĞ³øøÿÿÿÿ8÷‰¹ÈÄ-
-Xsquid:S1854
-"5Remove this useless assignment to local variable "a".(Î¶å°ÿÿÿÿÿ8×ôÅÈÄ-
-Ysquid:UselessImportCheck".Remove this unused import 'java.util.Objects'.(¼¸õ›8ò‹ÖÅÄ-

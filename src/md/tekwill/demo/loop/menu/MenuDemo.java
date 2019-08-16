@@ -52,10 +52,6 @@ class MenuDemo {
                     System.out.println("Result = " + (a * b));
                     break;
                 case '/':
-                    System.out.println("Enter a :");
-                    a = in.nextInt();
-                    System.out.println("Enter b :");
-                    b = in.nextInt();
                     System.out.println("Result = " + (a / b));
                     break;
             }

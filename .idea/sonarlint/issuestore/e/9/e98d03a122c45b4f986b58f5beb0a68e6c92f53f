@@ -1,11 +1,0 @@
-
-Tsquid:S1854"8Remove this useless assignment to local variable "bmw7".(¢¨¢²øÿÿÿÿ
-jsquid:S1192"SDefine a constant instead of duplicating this literal "Race started by > " 3 times.(í³­õ
-T
-squid:S106
-"9Replace this use of System.out or System.err by a logger.(ÉèÃüÿÿÿÿ
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(í³­õ
-T
-squid:S106	"9Replace this use of System.out or System.err by a logger.(î¦ùµÿÿÿÿÿ
-Esquid:S1481")Remove this unused "bmw7" local variable.(¢¨¢²øÿÿÿÿ

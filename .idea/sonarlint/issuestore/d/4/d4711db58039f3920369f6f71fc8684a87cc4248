@@ -1,13 +1,0 @@
-
-1squid:S1220""Move this file to a named package.
-Xsquid:S1854	"5Remove this useless assignment to local variable "z".(Ú¡£¯ıÿÿÿÿ8‰‘ÙóÃ-
-Bsquid:S1481"&Remove this unused "b" local variable.(éŸÑêøÿÿÿÿ
-Isquid:S1481"&Remove this unused "d" local variable.(¿£§µúÿÿÿÿ8ùÒÎóÃ-
-Tsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
-Isquid:S1481	"&Remove this unused "z" local variable.(Ú¡£¯ıÿÿÿÿ8‰‘ÙóÃ-
-Xsquid:S1854"5Remove this useless assignment to local variable "d".(¿£§µúÿÿÿÿ8ùÒÎóÃ-
-Qsquid:S1854"5Remove this useless assignment to local variable "b".(éŸÑêøÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
