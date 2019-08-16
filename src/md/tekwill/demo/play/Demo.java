@@ -5,42 +5,16 @@ import java.util.Scanner;
 
 class Demo {
     public static void main(String[] args) {
-        for (int i = 100, j = 0; i < 100_000; i++) {
-            if (i % 5 == 0 || i % 6 == 0) {
-                System.out.printf("%-8d", i);
+        System.out.println();
+        for (int i = 100, j = 0; i <= 200; i++) {
+            if ((i % 5 == 0 || i % 6 == 0) && !(i % 5 == 0 && i % 6 == 0)) {
+                System.out.printf("%d ", i);
                 j++;
-                if (j % 10 == 0) {
-                    System.out.println();
-                }
+            }
+            if (j % 5 == 0 && j > 0) {
+                System.out.println();
+                j = 0;
             }
         }
-
-
-        int i = 100;
-        int j = 0;
-        while (i < 100000){
-            if (i % 5 == 0 || i % 6 == 0) {
-                System.out.printf("%-8d", i);
-                j++;
-                if (j % 10 == 0) {
-                    System.out.println();
-                }
-            }
-            i++;
-        }
-
-
-        i = 100;
-        j = 0;
-        do {
-            if (i % 5 == 0 || i % 6 == 0) {
-                System.out.printf("%-8d", i);
-                j++;
-                if (j % 10 == 0) {
-                    System.out.println();
-                }
-            }
-            i++;
-        } while (i < 100000);
     }
 }
