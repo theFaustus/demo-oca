@@ -5,16 +5,15 @@ import java.util.Scanner;
 
 class Demo {
     public static void main(String[] args) {
-        System.out.println();
-        for (int i = 100, j = 0; i <= 200; i++) {
-            if ((i % 5 == 0 || i % 6 == 0) && !(i % 5 == 0 && i % 6 == 0)) {
-                System.out.printf("%d ", i);
-                j++;
-            }
-            if (j % 5 == 0 && j > 0) {
-                System.out.println();
-                j = 0;
-            }
+        Demo d = new Demo();
+        System.out.println(d.computeSummation(624));
+    }
+
+    public double computeSummation(int limit) {
+        double sum = 0;
+        for (int n1 = 1, n2 = 2; n1 <= limit; n1++, n2++) {
+            sum += 1 / (Math.sqrt(n1) + Math.sqrt(n2));
         }
+        return sum;
     }
 }
