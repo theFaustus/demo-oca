@@ -1,6 +1,7 @@
 package md.tekwill.demo.methods.strings;
 
 class StringUtils {
+
     static String reverse(String toReverse) {
         String result = "";
         for (int i = toReverse.length() - 1; i >= 0; i--) {
@@ -22,4 +23,5 @@ class StringUtils {
         }
         return commonPart;
     }
+
 }
