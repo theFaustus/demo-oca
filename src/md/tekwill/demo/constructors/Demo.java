@@ -1,12 +1,38 @@
 package md.tekwill.demo.constructors;
 
+import java.math.BigDecimal;
+
 class Demo {
     public static void main(String[] args) {
-        Cat c = new Cat();
-        System.out.println(c);
-        Cat mike = new Cat(29, "Mike", "Blue");
-        System.out.println(mike);
-        Cat spike = new Cat(29, "Spike", "Blue", "Scottish");
-        System.out.println(spike);
+        Unicorn mikey = new Unicorn("Mikey", "Pink", 999);
+        Unicorn hector = new Unicorn("Hector");
+        Unicorn haley = new Unicorn();
+
+        System.out.println(mikey);
+        System.out.println(haley);
+        System.out.println(hector);
+        System.out.println();
+        System.out.println(Unicorn.TYPE_OF_ANIMAL);
+        System.out.println(mikey.TYPE_OF_ANIMAL);
+        System.out.println(haley.TYPE_OF_ANIMAL);
+        System.out.println(hector.TYPE_OF_ANIMAL);
+        System.out.println();
+        mikey.fly();
+        mikey.run();
+        mikey.executeSuperpower("Sonic blast");
+        mikey.executeSuperpower("Rainbow poop", 5);
+        hector.fly();
+        haley.run();
+        System.out.println();
+        haley.setName("Haley");
+        haley.setColor("Aqua");
+        haley.setAgeInYears(666);
+        System.out.println(haley);
+        haley.run();
+        haley.singVerses();
+        haley.singVerses("la");
+        haley.singVerses("La", "Tra", "La");
+        haley.singVerses(new String[]{"Lo", "Lea", "Lo"});
+        haley.run();
     }
 }

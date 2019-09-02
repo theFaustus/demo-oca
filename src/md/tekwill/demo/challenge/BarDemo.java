@@ -21,5 +21,7 @@ class BarDemo {
         System.out.println(Bar.getAverage(240000000000000000.0, 240000000000000000.0));
 
 
+
+
     }
 }

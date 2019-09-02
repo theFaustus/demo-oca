@@ -38,6 +38,5 @@ class Bar {
         for (int i = 0; i < values.length; i++)
             result += values[i];
         return result / values.length;
-
     }
 }
