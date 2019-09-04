@@ -1,6 +1,7 @@
 package md.tekwill.demo.constructors;
 
 import java.math.BigDecimal;
+import java.util.Random;
 
 class Demo {
     public static void main(String[] args) {
@@ -34,5 +35,10 @@ class Demo {
         haley.singVerses("La", "Tra", "La");
         haley.singVerses(new String[]{"Lo", "Lea", "Lo"});
         haley.run();
+
+        Dog d = new Dog("Bobby", -798, "Shepherd", "male");
+        System.out.println(d);
+        d.setAgeInYears(-798452);
+        System.out.println(d);
     }
 }
