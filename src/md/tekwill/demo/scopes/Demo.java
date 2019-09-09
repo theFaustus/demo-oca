@@ -16,9 +16,19 @@ class Demo {
         foo();
         Employee.party(); //static method call
 
+        String a = new String("a");
+        Employee m = new Employee();
+
+
+        int b;
+
+
+        e.getName();
+
+
     }
 
-    public static void foo(){
+    public static void foo() {
         Employee e = new Employee(); //local variable
         e.setName("Hector");
         System.out.println(e.getName() + " works alone at " + e.company);

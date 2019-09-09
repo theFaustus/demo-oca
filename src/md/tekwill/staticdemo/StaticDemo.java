@@ -10,6 +10,8 @@ class StaticDemo {
         StaticDemo g = new StaticDemo();
         StaticDemo h = new StaticDemo();
 
+
+
         System.out.println("\nstatic no changes");
         System.out.print(" " + d.staticVariable);
         System.out.print(" " + d.staticVariable);
