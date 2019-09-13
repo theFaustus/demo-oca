@@ -20,6 +20,7 @@ class ArraysDemo {
         //expressions that result in int
         int arrayLength = 3 * 4;
         intArray = new int[arrayLength];
+        int secondIntArray[] = new int[arrayLength];
         charArray = new char[getRandomNumber()];
         stringArray = new String[Math.max(2, 4)];
         int rows = 2; //input from user, rows
@@ -75,7 +76,76 @@ class ArraysDemo {
         String[][] comboBiStringArray = {{"A"}, {"B", "D"}, {"C"}};
 
 
+        LightBulb b = new LightBulb();
+        TV t = new TV();
+        Radio r = new Radio();
 
+        Switchable radio = new Radio();
+        Switchable tv = new TV();
+        Switchable lightBulb = new LightBulb();
+
+        Startable microwave = new Microwave();
+        Startable washmachine = new Washmachine();
+
+        Switchable[] allDevices = new Switchable[]{radio, tv, lightBulb};
+        Startable[] allStartableDevices = new Startable[]{microwave, washmachine};
+
+        for (int i = 0; i < allDevices.length; i++) {
+            allDevices[i].turnOn();
+            allDevices[i].turnOff();
+        }
+
+        for (int i = 0; i < allStartableDevices.length; i++) {
+            allStartableDevices[i].run();
+            allStartableDevices[i].stop();
+        }
+
+        Hatchback h = new Hatchback();
+        h.drive();
+        h.lock();
+        h.unlock();
+
+        Car hatchback = new Hatchback();
+        Car sedan = new Sedan();
+
+        Car[] cars = new Car[]{hatchback, sedan};
+
+        for (int i = 0; i < cars.length; i++) {
+            cars[i].drive();
+            cars[i].lock();
+            cars[i].unlock();
+        }
+
+        for (Car c : cars) {
+            c.unlock();
+            c.drive();
+            System.out.println(c);
+        }
+
+        int sum = 0;
+        for (int i : intArray) {
+            sum += i;
+        }
+
+        int counter = 0;
+        for (int i = 0; i < intArray.length; i++) {
+            sum += intArray[i];
+            sum += secondIntArray[i];
+            if(intArray[i] < secondIntArray[i])
+                counter++;
+
+        }
+
+        Object[] allWeirdUnrelatedObjects = new Object[]{radio, microwave, t, hatchback, cars};
+        ((Radio) allWeirdUnrelatedObjects[0]).turnOn();
+
+        for (int i = 0; i < allWeirdUnrelatedObjects.length; i++) {
+            System.out.println(allWeirdUnrelatedObjects[i]);
+        }
+
+        Object o = "";
+        Object z = 0;
+        Object n = new Hatchback();
 
 
     }
