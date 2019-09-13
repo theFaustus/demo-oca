@@ -146,6 +146,13 @@ class ArraysDemo {
         Object o = "";
         Object z = 0;
         Object n = new Hatchback();
+        System.out.println("=============================");
+        int[] arrayOfNumbers = new int[17];
+        ArrayUtils.intializeElementsFiveByFive(arrayOfNumbers, 8);
+
+        for (int number : arrayOfNumbers){
+            System.out.print(number + " ");
+        }
 
 
     }
