@@ -154,7 +154,6 @@ class ArraysDemo {
             System.out.print(number + " ");
         }
 
-
     }
 
     public static int getRandomNumber() {
