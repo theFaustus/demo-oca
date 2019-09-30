@@ -11,10 +11,12 @@ import java.time.format.FormatStyle;
 class Demo {
     public static void main(String[] args) {
         LocalDate from = LocalDate.of(1999, 12, 31).minusYears(100);
+
         LocalDate to = LocalDate.of(1999, 12, 31);
-        DayChecker.countDayBetween(DayOfWeek.FRIDAY, 13,
-                from,
-                to);
+        int howManyFridays13 = DayChecker.countDayBetween(DayOfWeek.FRIDAY, 13, from, to);
+        System.out.println(howManyFridays13);
+
+
         LocalDateTime localDateTime = LocalDateTime.now();
         LocalDate localDate = LocalDate.now();
         LocalTime localTime = LocalTime.now();
@@ -88,6 +90,16 @@ class Demo {
         System.out.println(LocalDateTime.parse("2057 02 13 @ 07:12", DateTimeFormatter.ofPattern("yyyy MM dd @ HH:mm")));
         System.out.println(LocalDateTime.parse("2057 2 13 @ 00:12 AM", DateTimeFormatter.ofPattern("y M d @ h:m a")));
 
+
+        System.out.println();
+        String date = "2019-08-2";
+        String[] split = date.split("-");
+        String year = split[0];
+        String month = split[1];
+
+        System.out.println(LocalDate.parse(year + "-" + month + "-01"));
+
+        System.out.println(LocalDate.parse("2018 03 02", DateTimeFormatter.ofPattern("yyyy MM dd")));
     }
 
 }
