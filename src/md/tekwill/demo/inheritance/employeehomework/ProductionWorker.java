@@ -3,8 +3,8 @@ package md.tekwill.demo.inheritance.employeehomework;
 import java.time.LocalDate;
 
 class ProductionWorker extends Employee {
-    private int shift = 0;
-    private int hourlyPayRate;
+    protected int shift = 0;
+    protected int hourlyPayRate;
 
     public ProductionWorker(String name, LocalDate hireDate, int shift, int hourlyPayRate) {
         super(name, hireDate);

@@ -17,7 +17,15 @@ class Demo {
         System.out.println(e23);
         System.out.println(e24);
 
+        Employee ee = new Employee("John", LocalDate.now());
+        System.out.println(ee);
         Employee em = new ProductionWorker("John", LocalDate.now(), 0, 8);
         System.out.println(em);
+        Employee m = new SuperProductionWorker("John", "Punisher", LocalDate.now(), 0, 8);
+        System.out.println(m);
+
+        ((ProductionWorker) em).getHourlyPayRate();
+        //((SuperProductionWorker) em).getNickname();
+        ((ProductionWorker) m).getHourlyPayRate();
     }
 }
