@@ -2,7 +2,6 @@ package md.tekwill.demo.inheritance.employeehomework;
 
 import java.time.LocalDate;
 import java.util.Random;
-
 class Employee {
     protected String name;
     protected String employeeNumber;
