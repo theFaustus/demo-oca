@@ -3,13 +3,14 @@ package md.tekwill.demo.exceptions;
 class Demo {
     public static void main(String[] args) {
         NetworkConnector n = new NetworkConnector();
+        //HANDLE
         try {
-            String connect = n.connect("h.");
+            String connect = n.getStatusConnection("h");
             System.out.println(connect);
-        } catch (InvalidUrlException e) {
-            System.out.println(e.getMessage());
-        } catch (DotNotFoundException e) {
-            System.out.println(e.getMessage());
+        } catch (BusinessConnectionException e){
+            System.out.println(e);
         }
+
+        System.out.println(1 + 2);
     }
 }
